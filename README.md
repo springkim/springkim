@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=springkim&fontSize=70&animation=twinkling)
-
-
 <h3 align="center">Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
@@ -34,12 +31,5 @@
 <a href="https://www2.slideshare.net/ssuser5ef991"><img src="https://img.shields.io/badge/SlideShare-008ed2?style=flat-square&logo=SlideShare&logoColor=white&link=내링크"/></a>&nbsp
 </p>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=springkim&show_icons=true&theme=radical&count_private=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=springkim&layout=compact)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fspringkim&count_bg=%23E15454&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<div style="text-align : center;">
-     <img src="https://i.imgur.com/7ErVk1H.jpeg" width="200">
-</div>
