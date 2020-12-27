@@ -13,13 +13,13 @@
   <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Illustrator-ff9a00?style=flat-square&logo=Adobe-Illustrator&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Illustrator-31a8ff?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Illustrator-ee3d8f?style=flat-square&logo=Adobe-InDesign&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Photoshop-31a8ff?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/InDesign-ee3d8f?style=flat-square&logo=Adobe-InDesign&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/Tensorflow-ff6f00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Tensorflow2-ff6f00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/Spark-e25a1c0?style=flat-square&logo=Apache-Spark&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/PySpark-e25a1c0?style=flat-square&logo=Apache-Spark&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CMake-064f8c?style=flat-square&logo=CMake&logoColor=white"/></a>&nbsp
   
 </p>
