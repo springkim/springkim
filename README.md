@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/Perl-39457e?style=flat-square&logo=Perl&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/PowerShell-5391fe?style=flat-square&logo=PowerShell&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Bash-4eaa25?style=flat-square&logo=GNU-Bash&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Scala-d63330?style=flat-square&logo=Scala&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Windows-0078d6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp
