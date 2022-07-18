@@ -25,11 +25,17 @@
 </p>
 <h3 align="center">Me</h3>
 <p align="center">
-  <a href="springnode@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=내링크"/></a>&nbsp
-<a href="https://www.facebook.com/springnode/"><img src="https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white&link=내링크"/></a>&nbsp
-<a href="https://velog.io/@springkim"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white&link=내링크"/></a>&nbsp
-<a href="https://www2.slideshare.net/ssuser5ef991"><img src="https://img.shields.io/badge/SlideShare-008ed2?style=flat-square&logo=SlideShare&logoColor=white&link=내링크"/></a>&nbsp
+  <a href="springnode@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
+<a href="https://www.facebook.com/springnode/"><img src="https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white"/></a>&nbsp
+<a href="https://velog.io/@springkim"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>&nbsp
+<a href="https://www2.slideshare.net/ssuser5ef991"><img src="https://img.shields.io/badge/SlideShare-008ed2?style=flat-square&logo=SlideShare&logoColor=white"/></a>&nbsp
+<a href="https://www.behance.net/springkim"><img src="https://img.shields.io/badge/Behance-0054f7?style=flat-square&logo=Behance&logoColor=white"/></a>&nbsp
 </p>
 
+<div align="center">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=springkim&layout=compact)
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hotspring)](https://solved.ac/hotspring)
+  
+</div>
