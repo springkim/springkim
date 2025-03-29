@@ -59,7 +59,7 @@
 <div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=springkim&layout=compact)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=springkim&hide=contribs,prs&show_icons=false)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hotspring)](https://solved.ac/hotspring)
   
 </div>
